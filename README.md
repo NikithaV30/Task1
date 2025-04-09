@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **Data cleaning and pre-processing**
 
   To clean and prepare a raw dataset by handling:
@@ -15,3 +16,6 @@
   The cleaned dataset is now ready for deeper analysis or visualization in tools like Power BI or matplotlib/seaborn.
 
 Author - Nikitha V
+=======
+# Task1
+>>>>>>> 9e582b7933d88580b0fa91379ef2715842f022dc
